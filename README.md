@@ -12,4 +12,4 @@ code, the window may be hidden, but I have left it visible as a quick way to mon
 progress. 
 
 ## License
-No License - Please contact if you would like to use part of this code
+Not licensed for public or private use - please contact me if you would like to use this code or part of this code.
